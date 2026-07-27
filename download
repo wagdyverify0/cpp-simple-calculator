@@ -1,0 +1,5 @@
+calculator
+*.exe
+*.o
+*.out
+.DS_Store
